@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Web Development",
+        "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "price": "50$",
+        "duration": "6 Month",
+        "toLearn": [
+            "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+            "You will master both front and back-end development, becoming a full-stack developer by the end of the course.",
+            "Build fully-fledged websites and web apps for your startup or business.",
+            "Master frontend development with React",
+            "Learn professional developer best practices.",
+            "You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+            "After the course you will be able to build ANY website you want.",
+            "Work as a freelance web developer.",
+            "Master backend development with Node"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Microsoft Office",
+        "img": "https://images.unsplash.com/photo-1632239776255-0a7f24814df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "price": "30$",
+        "duration": "3 Month",
+        "toLearn": [
+            "Learn the essential and advanced Microsoft Office Skills in Excel, Word, PowerPoint, Outlook, Teams and Access",
+            "Learn practical methods to backup and recover your Excel spreadsheets and never lose data",
+            "Discover the essentials of using formulas and functions in Excel",
+            "Learn practical methods to sort and filter your data in Excel",
+            "Learn how to insert shapes, graphics and pictures to add some zing to your PowerPoint",
+            "Wow your audience by adding animations, audio and video to PowerPoint",
+            "How to get set up in OutlookAll about sending and receiving emailsHow to customize your mailbox and view",
+            "How to organize and manage your mail including ignoring, flagging and conditional formatting"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Graphics Designing",
+        "img": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "price": "40$",
+        "duration": "5 Month",
+        "toLearn": [
+            "You will have intermediate to expert level knowledge of graphic design theory that you will immediately be able to apply to your career, job, hobby, or company.",
+            "You will be given real-world, applicable projects that you can follow along with and practice.",
+            "You will learn color theory and how it applies to the world around us, from products and art to branding and advertising.",
+            "You will learn about logo design and branding, and the way that you or your company can use these ideas to get in the eyes of more people.",
+            "You will learn about the legal side of design and how you can take safe measures to make sure you are following the proper laws of copyright and trademarks.",
+            "NEW! Learn some 2021 design trends to look out for with three new student projects",
+            "Learn the Step-By-Step process to becoming a graphic designer"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Digital Marketing",
+        "img": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
+        "price": "70$",
+        "duration": "8 Month",
+        "toLearn": [
+            "How to generate more leads for your business online",
+            "Generate leads from your website",
+            "Create content that attracts high quality leads and sales",
+            "Use email to generate business leads",
+            "Implement everything you've learnt with a step-by-step workbook",
+            "Understand your sales funnel and how to fill it",
+            "Create and build landing pages",
+            "Learn the top commerce strategies, methods, tips & tricks to increase conversion and maximize sales.",
+            "Learn the bulletproof steps I use on each one of my product landing pages to psychologically convince my visitors to buy from me."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Motion Graphics",
+        "img": "https://images.unsplash.com/photo-1602731465517-820d34d5a9c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "price": "100$",
+        "duration": "10 Month",
+        "toLearn": [
+            "You'll learn to take Excel spread sheets and animate this in After Effects.",
+            "You'll learn how to create percentage counters.",
+            "You'll learn how to create 'voice over' infographics.",
+            "You will have the finished files so you never fall behind.",
+            "You'll learn how to make animated pie charts, line charts & bar graphs.",
+            "You'll learn how to animate icons making beautiful infographics."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "App Development",
+        "img": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "price": "70$",
+        "duration": "10 Month",
+        "toLearn": [
+            "You can build any Android app you can think of. No matter if it is an idea that you or your friends have, or if it is a contract job that you need to develop.",
+            "You'll be able to work as an Android freelancer and work from anywere in the world.",
+            "You'll be able to develop cloud apps using Google Firebase",
+            "You will build Apps for your portfolio to apply for jr. Android developer Jobs.",
+            "Publish your apps on Google Play and generate revenue with Google Pay and Google Ads",
+            "You will be very confident using Kotlin and programming in general"
+        ]
+    }
+]
