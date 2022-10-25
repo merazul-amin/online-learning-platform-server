@@ -12,7 +12,14 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(allCourses);
 })
+
 app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const singleCourse = courseDetails.find(c => c.id == id);
+    res.send(singleCourse);
+})
+
+app.get('/checkout/:id', (req, res) => {
     const id = req.params.id;
     const singleCourse = courseDetails.find(c => c.id == id);
     res.send(singleCourse);
