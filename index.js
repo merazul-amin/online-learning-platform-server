@@ -24,6 +24,4 @@ app.get('/checkout/:id', (req, res) => {
     const singleCourse = courseDetails.find(c => c.id == id);
     res.send(singleCourse);
 })
-app.listen(port, () => {
-    console.log('server is running')
-})
+app.listen(port, () => { })
